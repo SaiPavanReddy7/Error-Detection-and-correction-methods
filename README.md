@@ -1,1 +1,7 @@
 # Error-Detection-and-correction-methods
+
+The main objective of the project is to identify errors and to correct them using error detection and correction methods. We can obtain this by Cyclic redundancy check (CRC) and Hamming Code using Python programming implemented using sockets. CRC, commonly known as polynomial code checksum, is based on binary division. The CRC technique is used to start the execution after receiving the input from the sender. We get information from sender and we will send the data through Cyclic redundancy check algorithm. The receiver gets the code through socket and passes the code word through CRC check, to determine whether an error has occurred or not. If any error occurs, we rectify the error using Hamming code. A particular kind of error-correcting code called a Hamming code enables the identification and correction of single bit transmission problems. Hamming codes are employed in numerous applications, including DRAM memory chips and satellite communication technology, where such errors are frequent. 
+
+The goal of this project is to improve Cyclic Redundancy Check (CRC) and Hamming Code utilising Python programming and Sockets. CRC is used to determine any data errors while file transmission and Hamming Code corrects them. It is used in storage devices to make sure that there occurs a proper data transmission. The tools used are Python, Sockets and IDLE.
+
+ This project complete efficiency because if any error during transmission is identified and CRC is successfully simulated and is corrected using hamming code.
